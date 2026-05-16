@@ -59,9 +59,9 @@ Tech: Flask, REST APIs, PostgreSQL/MySQL, HTML/CSS/JS
 ### 📫 Contact
 
 📍 Location: India  
-📧 Email: *your email here*  
-🔗 GitHub: **github.com/yourusername** *(update link)*  
-💼 Portfolio / Resume: *(Add link when ready)*
+📧 Email: anshkalariya01@gmail.com
+🔗 GitHub: https://github.com/AnshKalariya01
+💼 Portfolio / Resume: https://anshkalariya.netlify.app
 
 ---
 
