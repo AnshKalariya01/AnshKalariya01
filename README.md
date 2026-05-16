@@ -7,7 +7,7 @@
 </h3>
 
 ---
-### 🎬 TypeScript Typing Animation (Fun Visual)
+###
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D0FF&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Engineer;Django+%7C+Flask+Expert;Learning+TypeScript+too!" alt="Typing SVG" />
